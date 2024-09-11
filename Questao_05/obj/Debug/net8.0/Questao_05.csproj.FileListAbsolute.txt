@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Teste_Tecnico\Questao_05\bin\Debug\net8.0\Questao_05.exe
+C:\Users\User\Desktop\Teste_Tecnico\Questao_05\bin\Debug\net8.0\Questao_05.deps.json
+C:\Users\User\Desktop\Teste_Tecnico\Questao_05\bin\Debug\net8.0\Questao_05.runtimeconfig.json
+C:\Users\User\Desktop\Teste_Tecnico\Questao_05\bin\Debug\net8.0\Questao_05.dll
+C:\Users\User\Desktop\Teste_Tecnico\Questao_05\bin\Debug\net8.0\Questao_05.pdb
+C:\Users\User\Desktop\Teste_Tecnico\Questao_05\obj\Debug\net8.0\Questao_05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Teste_Tecnico\Questao_05\obj\Debug\net8.0\Questao_05.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Teste_Tecnico\Questao_05\obj\Debug\net8.0\Questao_05.AssemblyInfo.cs
+C:\Users\User\Desktop\Teste_Tecnico\Questao_05\obj\Debug\net8.0\Questao_05.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Teste_Tecnico\Questao_05\obj\Debug\net8.0\Questao_05.dll
+C:\Users\User\Desktop\Teste_Tecnico\Questao_05\obj\Debug\net8.0\refint\Questao_05.dll
+C:\Users\User\Desktop\Teste_Tecnico\Questao_05\obj\Debug\net8.0\Questao_05.pdb
+C:\Users\User\Desktop\Teste_Tecnico\Questao_05\obj\Debug\net8.0\Questao_05.genruntimeconfig.cache
+C:\Users\User\Desktop\Teste_Tecnico\Questao_05\obj\Debug\net8.0\ref\Questao_05.dll
